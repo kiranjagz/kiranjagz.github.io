@@ -1,0 +1,15 @@
+body {
+    background-color: purple;
+    color: yellow;
+    font-style: italic;
+    font-family: Verdana;
+}
+
+p {
+    font-size: x-large;
+}
+
+.parent {
+    display: flex;
+    justify-content: center;
+}
